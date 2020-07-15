@@ -23,7 +23,7 @@ author_profile: true
     
 3. **PCMO Transient Analysis** (Summer '19)  
     _Advisor: Prof.Udayan Ganguly, EE, IITB_  
-    Designed a LTSpice model to verify the lumped model temperature behavior of a PCMO device. Developed a physical and corresponding quantitative MATLAB model to compare the effects of electrical field and temperature on the reset transient of the device. Calibrated the MATLAB model parameters to give accurate results for various devices.[[Report1]](http://iitbnf.iitb.ac.in/udayanresearch/index.php/2019/05/30/competition-between-electric-field-and-temperature-in-pcmo-reset-transient/ "Report 1"), [[Report2]](http://iitbnf.iitb.ac.in/udayanresearch/index.php/2019/07/01/calibration-of-parameters-for-comparison-between-electric-field-and-temperature-in-pcmo-reset-transient/,"Report 2") 
+    Designed a LTSpice model to verify the lumped model temperature behavior of a PCMO device. Developed a physical and corresponding quantitative MATLAB model to compare the effects of electrical field and temperature on the reset transient of the device. Calibrated the MATLAB model parameters to give accurate results for various devices.[[Report1]](http://iitbnf.iitb.ac.in/udayanresearch/index.php/2019/05/30/competition-between-electric-field-and-temperature-in-pcmo-reset-transient/ "Report 1"), [[Report2]](http://iitbnf.iitb.ac.in/udayanresearch/index.php/2019/07/01/calibration-of-parameters-for-comparison-between-electric-field-and-temperature-in-pcmo-reset-transient/ "Report 2") 
   
 4. **Image Compression** (Spring '19)  
     _Advisor: Prof.Biplab Banerjee, CSRE, IITB_  
