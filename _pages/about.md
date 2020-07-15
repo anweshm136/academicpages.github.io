@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hello there."
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello there.
 
 I am currently a fourth year Undergraduate student at the Department of Electrical Engineering, IIT Bombay. My research interests lie broadly in the area of **machine learning** and **AI**, **computer vision** and **signal processing**.
 
