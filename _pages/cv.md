@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+[Here is my Curriculum Vitae](https://github.com/anweshm136/anweshm136.github.io/blob/master/files/CV.pdf  "CV")
+
+(last updated 17th July, 2020)
 <!---
 Education
 ======
