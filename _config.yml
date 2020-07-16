@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Anwesh"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Student 
-			 IIT Bombay 
-			ML enthusiast"
+  bio              : "Undergraduate Student at IIT Bombay, ML enthusiast"
   location         : "Mumbai, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
